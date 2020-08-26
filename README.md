@@ -18,3 +18,10 @@
 - 스테이션별 자전거 수용 용량 최대 30대
 ### 참고
 지식 자료실 / 공간분석 활용의 COMPAS 게시물들을 참조하여 도움을 얻을 수 있습니다.
+
+# Table 작성
+- 함수의 설명서는 아래와 같습니다.
+
+| function | Plot | Description |
+|-|-|-|
+| ggbarstats | violin plots | for comparisons between groups |
