@@ -25,3 +25,21 @@
 | function | Plot | Description |
 |-|-|-|
 | ggbarstats | violin plots | for comparisons between groups |
+
+# 소스 코드 입력
+- 터미널 bash 코드 입력 예제
+
+
+```shell script
+> python -m pip install -u pip
+> python -m pip install -u 
+```
+
+```python
+import pandas as pd
+```
+
+```r
+library(ggplot2)
+library(dyplyr)
+```
